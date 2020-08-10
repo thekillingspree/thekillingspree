@@ -43,11 +43,11 @@ I'm a B.E Computer Engineering Student at 👨‍💻 Terna Engineering College,
   <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" style="margin: 0 10px;" alt="android" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
 </p>
-<p style="display: flex;" align="center">
-<img align="left" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekillingspree&layout=compact&icon_color=FFC83D&bg_color=151515&text_color=FFFFFF" alt="thekillingspree" />
+
+<img align="center" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekillingspree&layout=compact&icon_color=FFC83D&bg_color=151515&text_color=FFFFFF" alt="thekillingspree" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=thekillingspree&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&icon_color=FFC83D&bg_color=151515&text_color=FFFFFF" alt="thekillingspree" />
-</p>
+
 
 
 ### Listen Along 🎵🎶
