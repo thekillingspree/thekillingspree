@@ -2,25 +2,24 @@
 <br />
 <p align="center">
   <a href="https://twitter.com/thekillingspre3">
-    <img align="left" alt="Ajesh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+    <img alt="Ajesh's Twitter" width="30px" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
   <a href="https://www.linkedin.com/in/ajeshds/">
-    <img align="left" alt="Ajesh's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <img alt="Ajesh's LinkdeIn" width="30px" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
   <a href="https://t.me/thekillingspree">
-    <img align="left" alt="Ajesh's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+    <img alt="Ajesh's Telegram" width="30px" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
   </a>
   <a href="https://www.instagram.com/thekillingspree/">
-    <img align="left" alt="Ajesh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+    <img alt="Ajesh's Instagram" width="30px" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
   <a href="https://www.reddit.com/u/ajeshd17">
-    <img align="left" alt="Ajesh's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+    <img alt="Ajesh's Reddit" width="30px" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
   </a>
   <a href="https://leetcode.com/thekillingspree/">
-    <img align="left" alt="Ajesh's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+    <img alt="Ajesh's Leetcode" width="30px" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
   </a>
-<p />
-<br />
+<p/>
 <br />
 I'm a B.E Computer Engineering Student at 👨‍💻 Terna Engineering College, Nerul. I'm a self taught Web and React Native developer.
 
@@ -31,14 +30,29 @@ I'm a B.E Computer Engineering Student at 👨‍💻 Terna Engineering College,
 - 🤖 I'm currently studying about **Deep Learning**.
 
 ### Get to Know me 🌚
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thekillingspree&layout=compact&icon_color=FFC83D&bg_color=151515&text_color=FFFFFF)](https://github.com/thekillingspree)
+<p align="center" style="margin: 50px 0;">
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" style="margin: 0 10px;" alt="javascript" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" style="margin: 0 10px;" alt="python" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" style="margin: 0 10px;" alt="java" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" style="margin: 0 10px;" alt="react" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" style="margin: 0 10px;" alt="html5" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" style="margin: 0 10px;" alt="css3" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" style="margin: 0 10px;" alt="sass" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" style="margin: 0 10px;" alt="nodejs" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" style="margin: 0 10px;" alt="mongodb" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" style="margin: 0 10px;" alt="android" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+</p>
+<p style="display: flex;" align="center">
+<img align="left" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekillingspree&layout=compact&icon_color=FFC83D&bg_color=151515&text_color=FFFFFF" alt="thekillingspree" />
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=thekillingspree&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&icon_color=FFC83D&bg_color=151515&text_color=FFFFFF)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=thekillingspree&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&icon_color=FFC83D&bg_color=151515&text_color=FFFFFF" alt="thekillingspree" />
+</p>
 
 
 ### Listen Along 🎵🎶
-<div align="justify">
+<div align="left">
     <a href="https://status.ajesh.dev/now-playing?open">
-        <img src="https://status.ajesh.dev/now-playing" width="256" height="64" alt="Now Playing">
+        <img src="https://status.ajesh.dev/now-playing" width="400" height="100" alt="Now Playing">
     </a>
 </div>
