@@ -1,8 +1,7 @@
 name: Update Stats
 
 on:
-  workflow_dispatch:
-  workflow_run:
+  workflow_dispatch
 #   schedule:
 #     - cron: '00 19 * * *'
 
