@@ -1,8 +1,10 @@
 name: Update Stats
 
 on:
-  schedule:
-    - cron: '00 19 * * *'
+  workflow_dispatch:
+  workflow_run:
+#   schedule:
+#     - cron: '00 19 * * *'
 
 jobs:
   update-readme:
