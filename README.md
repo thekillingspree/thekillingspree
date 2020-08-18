@@ -49,7 +49,7 @@ I'm a B.E Computer Engineering Student at 👨‍💻 Terna Engineering College,
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=thekillingspree&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&icon_color=FFC83D&bg_color=151515&text_color=FFFFFF" alt="thekillingspree" />
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-315-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-348-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.5%20million%20Lines%20of%20code-blue)
 
@@ -59,18 +59,18 @@ I'm a B.E Computer Engineering Student at 👨‍💻 Terna Engineering College,
 ⌚︎ Time zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     24 hrs 20 mins      ████████████████░░░░░░░░░   66.65% 
-Python                   7 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   20.18% 
-TypeScript               1 hr 6 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   3.03% 
-Groovy                   1 hr 1 min          ░░░░░░░░░░░░░░░░░░░░░░░░░   2.79% 
-JavaScript               49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.26%
+Java                     27 hrs 43 mins      █████████████████░░░░░░░░   69.14% 
+Python                   7 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.54% 
+XML                      1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.93% 
+Groovy                   1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.56% 
+JavaScript               49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.07%
 
 🔥 Code Editors: 
-Android Studio           25 hrs 9 mins       █████████████████░░░░░░░░   68.91% 
-VS Code                  11 hrs 21 mins      ███████░░░░░░░░░░░░░░░░░░   31.09%
+Android Studio           30 hrs 52 mins      ███████████████████░░░░░░   77.0% 
+VS Code                  9 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   23.0%
 
 💻 Operating System: 
-Windows                  36 hrs 31 mins      █████████████████████████   100.0%
+Windows                  40 hrs 5 mins       █████████████████████████   100.0%
 
 ```
 
