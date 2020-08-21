@@ -20,7 +20,9 @@
     <img alt="Ajesh's Leetcode" width="30px" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
   </a>
 <p/>
-<br />
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+    <img align="right" width="200" height="200" src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" />
+</a>
 I'm a B.E Computer Engineering Student at 👨‍💻 Terna Engineering College, Nerul. I'm a self taught Web and React Native developer.
 
 
@@ -28,6 +30,8 @@ I'm a B.E Computer Engineering Student at 👨‍💻 Terna Engineering College,
 - ❤ I love everything **Web**! 
 - 🐱‍💻 I'm a simple dev, I see a Hackathon, I join.
 - 🤖 I'm currently studying about **Deep Learning**.
+
+
 
 ### Get to Know me 🌚
 <p align="center" style="margin: 50px 0;">
