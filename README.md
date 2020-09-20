@@ -53,7 +53,7 @@ I'm a B.E Computer Engineering Student at 👨‍💻 Terna Engineering College,
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=thekillingspree&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&icon_color=FFC83D&bg_color=151515&text_color=FFFFFF" alt="thekillingspree" />
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -61,18 +61,18 @@ I'm a B.E Computer Engineering Student at 👨‍💻 Terna Engineering College,
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               11 hrs 36 mins      ███████░░░░░░░░░░░░░░░░░░   28.67% 
-Python                   11 hrs 13 mins      ███████░░░░░░░░░░░░░░░░░░   27.69% 
-Java                     7 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   19.51% 
-Go                       6 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.0% 
-SCSS                     1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.46%
+JavaScript               25 hrs 59 mins      ██████████████░░░░░░░░░░░   58.78% 
+Python                   10 hrs 47 mins      ██████░░░░░░░░░░░░░░░░░░░   24.42% 
+Java                     5 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.01% 
+XML                      50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.92% 
+SCSS                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.95%
 
 🔥 Editors: 
-VS Code                  32 hrs 17 mins      ████████████████████░░░░░   79.69% 
-Android Studio           8 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   20.31%
+VS Code                  38 hrs 8 mins       █████████████████████░░░░   86.28% 
+Android Studio           6 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.72%
 
 💻 Operating System: 
-Windows                  40 hrs 30 mins      █████████████████████████   100.0%
+Windows                  44 hrs 12 mins      █████████████████████████   100.0%
 
 ```
 
