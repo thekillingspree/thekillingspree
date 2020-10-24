@@ -53,7 +53,7 @@ I'm a B.E Computer Engineering Student at 👨‍💻 Terna Engineering College,
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=thekillingspree&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&icon_color=FFC83D&bg_color=151515&text_color=FFFFFF" alt="thekillingspree" />
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -61,17 +61,17 @@ I'm a B.E Computer Engineering Student at 👨‍💻 Terna Engineering College,
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Go                       10 hrs 15 mins      ███████████████████████░░   94.66% 
-Markdown                 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.97% 
-Java                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.86% 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.15%
+Go                       2 hrs 49 mins       █████████████████████░░░░   86.73% 
+Markdown                 25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.18% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05% 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02% 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🔥 Editors: 
-VS Code                  10 hrs 50 mins      █████████████████████████   100.0%
+VS Code                  3 hrs 15 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  10 hrs 50 mins      █████████████████████████   100.0%
+Windows                  3 hrs 15 mins       █████████████████████████   100.0%
 
 ```
 
