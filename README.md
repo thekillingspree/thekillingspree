@@ -61,14 +61,13 @@ I'm a B.E Computer Engineering Student at 👨‍💻 Terna Engineering College,
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Go                       50 mins             █████████████████████████   99.96% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  50 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  50 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
