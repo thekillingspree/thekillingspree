@@ -34,7 +34,7 @@ I'm a B.E Computer Engineering Student at 👨‍💻 Terna Engineering College,
 
 
 ### Get to Know me 🌚
-<p align="center" style="margin: 50px 0;">
+<!-- <p align="center" style="margin: 50px 0;">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" style="margin: 0 10px;" alt="javascript" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" style="margin: 0 10px;" alt="python" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" style="margin: 0 10px;" alt="java" width="40" height="40"/> 
@@ -46,7 +46,7 @@ I'm a B.E Computer Engineering Student at 👨‍💻 Terna Engineering College,
   <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" style="margin: 0 10px;" alt="mongodb" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" style="margin: 0 10px;" alt="android" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-</p>
+</p> -->
 
 <img align="center" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekillingspree&layout=compact&icon_color=FFC83D&bg_color=151515&text_color=FFFFFF" alt="thekillingspree" />
 
