@@ -54,7 +54,9 @@ I'm a B.E Computer Engineering Student at 👨‍💻 Terna Engineering College,
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 20 September, 2021 - 26 September, 2021
+
+
 ```
 <!--END_SECTION:waka-->
 
