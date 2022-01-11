@@ -23,13 +23,12 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
     <img align="right" width="200" height="200" src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" />
 </a>
-I'm a B.E Computer Engineering Student at 👨‍💻 Terna Engineering College, Nerul. I'm a self taught Web and React Native developer.
+App Services Support Engineer [@Microsoft](https://github.com/microsoft).
 
 
 - ⚡ JavaScript enthusiast
 - ❤ I love everything **Web**! 
 - 🐱‍💻 I'm a simple dev, I see a Hackathon, I join.
-- 🤖 I'm currently studying about **Deep Learning**.
 
 
 
