@@ -55,7 +55,10 @@ App Services Support Engineer [@Microsoft](https://github.com/microsoft).
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 11 January, 2022 - 17 January, 2022
+
+TypeScript   1 hr 24 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀   94.76 % 
+HTML         3 mins          ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.87 % 
 ```
 <!--END_SECTION:waka-->
 
