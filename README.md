@@ -54,11 +54,13 @@ App Services Support Engineer [@Microsoft](https://github.com/microsoft).
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=thekillingspree&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&icon_color=FFC83D&bg_color=151515&text_color=FFFFFF" alt="thekillingspree" />
 
 <!--START_SECTION:waka-->
+
 ```text
-From: 18 February, 2022 - To: 25 February, 2022
+From: 21 February 2022 - To: 28 February 2022
 
-
+JSON   0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 %
 ```
+
 <!--END_SECTION:waka-->
 
 ### Listen Along 🎵🎶
