@@ -56,10 +56,10 @@ App Services Support Engineer [@Microsoft](https://github.com/microsoft).
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 June 2023 - To: 10 June 2023
+From: 04 June 2023 - To: 11 June 2023
 
-Other   43 mins         ███████████████████░░░░░░   76.27 %
-Rust    13 mins         ██████░░░░░░░░░░░░░░░░░░░   23.73 %
+Other   43 mins         ████████████████████░░░░░   79.74 %
+Rust    11 mins         █████░░░░░░░░░░░░░░░░░░░░   20.26 %
 ```
 
 <!--END_SECTION:waka-->
