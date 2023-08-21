@@ -16,9 +16,6 @@
   <a href="https://www.reddit.com/u/ajeshd17">
     <img alt="Ajesh's Reddit" width="30px" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
   </a>
-  <a href="https://leetcode.com/thekillingspree/">
-    <img alt="Ajesh's Leetcode" width="30px" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-  </a>
 <p/>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
     <img align="right" width="200" height="200" src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" />
@@ -28,7 +25,7 @@
 App Services Support Engineer [@Microsoft](https://github.com/microsoft).
 
 
-- ⚡ Typescript to the moon 🚀
+- ⚡ TypeScript to the moon 🚀
 - ❤ I love everything **Web**! 
 - 🐱‍💻 I'm a simple dev, I see a Hackathon, I join.
 
