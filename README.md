@@ -28,7 +28,7 @@
 App Services Support Engineer [@Microsoft](https://github.com/microsoft).
 
 
-- ⚡ JavaScript enthusiast
+- ⚡ Typescript to the moon 🚀
 - ❤ I love everything **Web**! 
 - 🐱‍💻 I'm a simple dev, I see a Hackathon, I join.
 
