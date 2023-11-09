@@ -53,13 +53,13 @@ App Services Support Engineer [@Microsoft](https://github.com/microsoft).
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 October 2023 - To: 07 November 2023
+From: 01 November 2023 - To: 08 November 2023
 
-TypeScript   7 hrs 54 mins   ██████████████████▒░░░░░░   73.31 %
-Rust         41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
-JavaScript   40 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
-JSON         35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
-Other        16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+TypeScript   7 hrs 54 mins   ███████████████████░░░░░░   76.11 %
+JavaScript   40 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
+JSON         35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
+Rust         17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+Other        16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
 ```
 
 <!--END_SECTION:waka-->
