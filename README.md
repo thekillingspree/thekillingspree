@@ -53,7 +53,7 @@ App Services Support Engineer [@Microsoft](https://github.com/microsoft).
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 November 2023 - To: 07 December 2023
+From: 01 December 2023 - To: 08 December 2023
 
 Java              2 mins          ████████████▓░░░░░░░░░░░░   50.10 %
 Groovy            1 min           ████████▒░░░░░░░░░░░░░░░░   33.44 %
