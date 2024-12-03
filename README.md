@@ -53,12 +53,11 @@ Software Engineer [@Microsoft Security](https://github.com/microsoft).
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 November 2024 - To: 01 December 2024
+From: 25 November 2024 - To: 02 December 2024
 
-Other        1 hr 11 mins    █████████████████████████   99.45 %
-PowerShell   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+Other        58 mins         ████████████████████████▓   99.33 %
+PowerShell   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
 Batchfile    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
