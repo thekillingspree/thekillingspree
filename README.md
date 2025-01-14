@@ -53,10 +53,12 @@ Software Engineer [@Microsoft Security](https://github.com/microsoft).
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 January 2025 - To: 12 January 2025
+From: 06 January 2025 - To: 13 January 2025
 
-Python   34 mins         █████████████████████████   99.78 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Python     34 mins         █████████████████▓░░░░░░░   70.88 %
+Markdown   9 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.40 %
+YAML       5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.56 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
